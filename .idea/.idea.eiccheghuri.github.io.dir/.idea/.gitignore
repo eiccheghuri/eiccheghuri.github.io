@@ -1,0 +1,13 @@
+﻿# Default ignored files
+/shelf/
+/workspace.xml
+# Rider ignored files
+/modules.xml
+/projectSettingsUpdater.xml
+/.idea.eiccheghuri.github.io.iml
+/contentModel.xml
+# Datasource local storage ignored files
+/../../../../../../:\Portfolio\eiccheghuri.github.io\.idea\.idea.eiccheghuri.github.io.dir\.idea/dataSources/
+/dataSources.local.xml
+# Editor-based HTTP Client requests
+/httpRequests/
